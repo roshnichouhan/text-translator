@@ -46,7 +46,7 @@ Bundler: Vite
 
 API: LibreTranslate API (or Google Translate API)
 
-🚀 Getting Started
+🚀 Getting Started.
 
 Clone the repo and run locally:
 
